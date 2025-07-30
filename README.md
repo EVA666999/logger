@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```bash
 python main.py --file logs/example1.log --report average
 ```
-https://github.com/EVA666999/logger/issues/1#issuecomment-3135183862
+> <img width="477" height="158" alt="Image" src="https://github.com/user-attachments/assets/600b5b6b-1c88-49c0-9ad0-ec44e328b86e" /> 
 
 ### Отчёт с фильтрацией по дате
 ```bash
