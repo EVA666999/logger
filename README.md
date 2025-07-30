@@ -20,7 +20,7 @@ python main.py --file logs/example1.log --report average
 ```bash
 python main.py --file logs/example1.log --report average --date 2025-06-22
 ```
-> <img width="681" height="137" alt="Image" src="https://github.com/user-attachments/assets/0a457e94-dcda-4877-a52c-6f172194c883" />
+<img width="557" height="157" alt="Image" src="https://github.com/user-attachments/assets/c41f6e01-17e2-47ef-9e02-03e3fed466b4" />
 
 ### Анализ нескольких файлов
 ```bash
