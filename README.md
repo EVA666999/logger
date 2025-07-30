@@ -1,4 +1,4 @@
-# Logger Analyzer
+# Logger
 
 Скрипт для анализа лог-файлов API запросов.
 
