@@ -20,14 +20,13 @@ python main.py --file logs/example1.log --report average
 ```bash
 python main.py --file logs/example1.log --report average --date 2025-06-22
 ```
-![Пример работы](https://i.imgur.com/example2.png)
+> <img width="681" height="137" alt="Image" src="https://github.com/user-attachments/assets/0a457e94-dcda-4877-a52c-6f172194c883" />
 
 ### Анализ нескольких файлов
 ```bash
 python main.py --file logs/example1.log logs/example2.log --report average
 ```
-![Пример работы](https://i.imgur.com/example3.png)
-
+> <img width="573" height="146" alt="Image" src="https://github.com/user-attachments/assets/79590581-51db-4c7f-b054-59a3bba0ada8" />
 ## Запуск тестов
 
 ```bash
